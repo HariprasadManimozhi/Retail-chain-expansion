@@ -13,7 +13,7 @@ Python
 
 ### Snapshots
 
-<img src="https://user-images.githubusercontent.com/28645647/175760167-2b56287d-e1fe-4fb6-a525-bbb5d49d7e9f.png" width="600px" height="400px">
+<img src="https://user-images.githubusercontent.com/28645647/175760167-2b56287d-e1fe-4fb6-a525-bbb5d49d7e9f.png" width="650px" height="400px">
 <img src="https://user-images.githubusercontent.com/28645647/175760151-97885437-225f-46f5-b2de-b068ffb94faa.png" width="375px" height="300px">
 <img src="https://user-images.githubusercontent.com/28645647/175760083-1454f371-3112-481b-a487-162e36da0167.png" width="375px" height="300px">
 
